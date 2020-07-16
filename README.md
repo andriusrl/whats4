@@ -5,7 +5,7 @@
 ### Link de acesso
 ### http://whats4-andrius.surge.sh/
 
-# 4eddit
+# Whats4
 
 #### Aplicativo que simula troca de mensagens.
 <h6></h6>
